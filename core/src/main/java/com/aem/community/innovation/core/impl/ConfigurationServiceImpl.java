@@ -33,6 +33,7 @@ public class ConfigurationServiceImpl
   {
     return this.simpleString;
   }
+  
    
   @Activate
   protected void activate(Map<String, Object> properties)
